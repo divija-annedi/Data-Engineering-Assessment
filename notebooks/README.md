@@ -1,5 +1,12 @@
 Jupyter Notebook consists of all the data processing.
 
+## Run Instructions
+- Clone the git repository onto your system. (I usually do it from git cmd, you can look it up on your desktop search menu)
+- Use 'git clone https://github.com/divija-annedi/Data-Engineering-Assessment.git'
+- Type in 'pwd', this will show you your current directory that the cloned folder is in.
+- Since it's an ipynb, open jupyter notebook on your desktop and go to the directory that the cloned folder is located in.
+- Run all cells in the ipynb. It should not show up an error as the input files are also in the same directory.
+
 ## Input
 Input is taken from the three sheets from "Copy of Data Import Assignment.xlsx"
 
